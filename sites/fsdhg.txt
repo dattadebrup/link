@@ -1,0 +1,1 @@
+https://peyman.me/blog/url-shortener-using-vercel-redirects
